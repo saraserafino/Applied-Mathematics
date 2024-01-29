@@ -1,0 +1,61 @@
+The order of the lectures with dates is the following:
+
+10.03 Introduction Applied Mathematics.pdf
+10.03 lecture by Girfoglio: Elements of functional analysis
+
+10.05 lab1 with tutor (02_GR_PS_Exercices)
+
+10.10 lecture by Girfoglio: Well posed problems
+	lab2 with Girfoglio (03-04-06-MG-Well-posed-problems_and_interpolation)
+
+10.12 lecture by Girfoglio: Well posed problems, Interpolation
+
+10.17 NonLinearEquations.pdf
+10.24 NonLinearEquations.pdf
+
+10.19 lecture by Girfoglio: Interpolation
+
+10.26 lab3 with tutor (08_PS_Exercises)
+	Interpolation.pdf
+	Numpy_Scipy_Python.pdf
+
+10.31 lab4 with tutor (09_PS_Exercises)
+	InterpolationLagrange.pdf
+
+11.07 LeastSquares.pdf
+
+11.07 LinearSystemsDirectMethods.pdf
+
+11.09 LinearSystemsDirectMethods.pdf
+
+11.14 lab5 with Girfoglio (15_MG_PS_Exercises)
+
+11.16 LinearSystemsIterativeMethods.pdf
+
+11.21 LinearSystemsIterativeMethods.pdf
+
+11.23 lab6 with tutor (15_PS_Exercises)
+	NonLinearEquationLeastSquare.pdf
+
+11.28 LinearSystemsIterativeMethods.pdf
+
+11.30 lab7 with tutor (17_PS_Direct_Method)
+	LinearSystemDirectMethod.pdf
+
+12.05 lecture with Girfoglio: Finite Difference methods
+
+12.07 lecture with Girfoglio: Finite Difference and Finite Element methods
+
+12.12 lab8 with Girfoglio (18-19-20-MG-Finite-Difference-and-Finite-Element-methods)
+
+12.14 lab9 with tutor (21_PS_Exercises_iterative_methods)
+	LinearSystemIterativeMethods.pdf
+
+12.19 OrdinaryDifferentialEquations.pdf
+
+12.21 OrdinaryDifferentialEquations.pdf
+	Eigenvalues.pdf
+
+01.09 lab10+lab11 with Girfoglio (24-25-MG-Exercises-Eigenvalues-and-ODE)
+
+01.11 FinalProject_2023_2024
