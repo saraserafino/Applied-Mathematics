@@ -1,4 +1,4 @@
-The order of the lectures with dates is the following:
+The order of the lectures is given by increasing numbers at the beginning of each document, however these are the dates of each one:
 
 10.03 Introduction Applied Mathematics.pdf
 10.03 lecture by Girfoglio: Elements of functional analysis
