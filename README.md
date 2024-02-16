@@ -1,5 +1,5 @@
 # Applied Mathematics
-These are the notes of the Applied Mathematics course followed at SISSA (joint course with UniTS), teached by Prof. Rozza, Dr. Girfoglio, Dr. Siena, during the academic year 2023/24.<br>
+This repository contains every material of the Applied Mathematics course followed at SISSA (joint course with UniTS), teached by Prof. Rozza, Dr. Girfoglio, Dr. Siena, during the academic year 2023/24.<br>
 The syllabus and other infos can be found [here](https://www.math.sissa.it/course/phd-course-master-course/applied-mathematics-introduction-scientific-computing-numerical-0) where you'll also find the links to [Rozza's lectures](https://people.sissa.it/~grozza/amnasc/) and [Python codes](https://github.com/mgirfogl/numerical-analysis-2023-2024).
 
 # Syllabus 2023-2024
